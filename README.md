@@ -10,27 +10,22 @@ With experience leading development teams, Scrum delivery, product initiatives, 
 
 ## 🚀 Current Focus
 
+* Development Team Management
 * AI Governance & Compliance
-* Guardian-AI Chrome Extension
 * Prompt Engineering Tools
-* Scrum & Agile Tooling
+* Scrum & Agile Leadership
 * Product Development & Delivery Leadership
 
 ---
 
 ## 🛠 Tech & Tools
 
-* C#
-* .NET
-* React
-* JavaScript
 * HTML / CSS
-* REST APIs
-* SQL
-* AWS
+* JavaScript
 * GitHub
 * Agile Scrum
 * Product Management
+* Process Improvement
 
 ---
 
