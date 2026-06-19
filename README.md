@@ -1,80 +1,52 @@
-# Hi, I'm Jon Boyle 👋
+# Hi, I am Jon Boyle
 
 ## Development Manager | Agile Delivery Lead | AI Governance & Product Builder
 
 I help teams deliver better software through Agile practices, product thinking, AI governance, and practical automation.
 
-With experience leading development teams, Scrum delivery, product initiatives, and AI adoption programs, I enjoy building tools that solve real business problems.
+---
+
+## Current Focus
+
+- Development Team Management
+- AI Governance and Compliance
+- Prompt Engineering Tools
+- Scrum and Agile Leadership
+- Product Development and Delivery Leadership
 
 ---
 
-## 🚀 Current Focus
+## Tech and Tools
 
-* Development Team Management
-* AI Governance & Compliance
-* Prompt Engineering Tools
-* Scrum & Agile Leadership
-* Product Development & Delivery Leadership
-
----
-
-## 🛠 Tech & Tools
-
-* HTML / CSS
-* JavaScript
-* GitHub
-* Agile Scrum
-* Product Management
-* Process Improvement
+- HTML / CSS / JavaScript
+- Chrome Extension Development
+- GitHub / Git
+- Agile Scrum / Product Management
 
 ---
 
 ## Featured Projects
 
-### Guardian-AI
+### [Guardian-AI](https://github.com/JonBoyle82/Guardian-AI)
+Scans every prompt you type into Claude, ChatGPT, and Gemini in real time. Detects sensitive data and stops you before you hit send. Locally. Privately. Zero data leaves your machine.
 
-Protects users from accidentally sharing sensitive information with AI tools.
+### [PromptForge](https://github.com/JonBoyle82/promptforge)
+Intercepts prompts on ChatGPT, Claude, and Gemini before sending. Choose from 12 structured frameworks, auto-classify your prompt, and get a live quality checklist.
 
-### PromptForge
+### [Dark Pattern Detector](https://github.com/JonBoyle82/Dark-pattern-Detector)
+Detects and highlights manipulative UI patterns in real time as you browse. Catches 11 pattern types including guilt-trip buttons, fake urgency, and hidden catches.
 
-A structured prompt-building framework for creating high-quality AI prompts.
+### [Scrum Toolkit](https://github.com/JonBoyle82/Scrum-toolkit)
+A fully self-contained, browser-based Scrum toolkit grounded in the 2020 Scrum Guide. No install required.
 
-### Scrum Toolkit
+### [Lekkerish](https://github.com/JonBoyle82/Lekkerish)
+Gamified Afrikaans Grade 10 EAT learning platform with arcade theme and AI-powered marking.
 
-A lightweight toolkit designed to support Agile teams with planning and delivery.
-
----
-
-## Professional Interests
-
-* AI Governance
-* Product Strategy
-* Agile Leadership
-* Software Delivery
-* Team Development
-* Business Continuity
-* Process Improvement
+### [JTC Technologies Group](https://github.com/JonBoyle82/JTC-Technologies-Group)
+Company website for JTC Technologies Group - a tech team building privacy-first AI tools and browser extensions.
 
 ---
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/jonathanboyle1982/
-
-GitHub: https://github.com/JonBoyle82
-
-
-<!--
-**JonBoyle82/JonBoyle82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/jonathanboyle1982/) | [GitHub](https://github.com/JonBoyle82)
