@@ -39,9 +39,6 @@ Detects and highlights manipulative UI patterns in real time as you browse. Catc
 ### [Scrum Toolkit](https://github.com/JonBoyle82/Scrum-toolkit)
 A fully self-contained, browser-based Scrum toolkit grounded in the 2020 Scrum Guide. No install required.
 
-### [Lekkerish](https://github.com/JonBoyle82/Lekkerish)
-Gamified Afrikaans Grade 10 EAT learning platform with arcade theme and AI-powered marking.
-
 ### [JTC Technologies Group](https://github.com/JonBoyle82/JTC-Technologies-Group)
 Company website for JTC Technologies Group - a tech team building privacy-first AI tools and browser extensions.
 
